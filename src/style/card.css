@@ -1,0 +1,28 @@
+.cardBody {
+  border-radius: 20px;
+  width: 180px;
+  height: 263px;
+  margin: 5px;
+  scroll-snap-align: center;
+  scroll-snap-align: center;
+  transition: 0.2s;
+  transition-timing-function: ease-out;
+
+}
+.cardBody:hover {
+    transform: scale(1.03);
+}
+   
+.cardImage {
+  width: 180px;
+  height: 180px;
+  display: block;
+  border-radius: 5px;
+  border-radius: 5px;
+  margin-bottom: 15px;
+  box-shadow: 0px 10px 10px 0px rgba(69, 69, 69, 0.2);
+}
+
+p{
+    margin :0;
+}

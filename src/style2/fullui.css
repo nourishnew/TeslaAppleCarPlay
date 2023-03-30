@@ -1,0 +1,37 @@
+.flex{
+    display:flex;
+    flex-direction:row;
+}
+.center {
+    align-items: center;
+}
+.around{
+    justify-content: space-around;
+}
+.mediaPlayer{
+    align-items: center;
+    justify-content: space-between;
+    background: #2c2c2c;
+}
+.applePlayTopBar{
+    margin: 10px;
+}
+.albumImage{
+    height:100px;
+    width:100px;
+}
+.dark{
+    background-color: #161616;
+    opacity: 100%;
+}
+.imageContainer{
+    margin:auto;
+}
+.image{
+    width: 350px;
+    height: 250px;
+}
+p{
+    margin:0;
+
+}

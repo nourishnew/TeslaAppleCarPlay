@@ -1,0 +1,232 @@
+[
+	{
+	  "name": "Top Picks",
+	  "items": [
+	  	{
+	  		"type":"feature",
+	  		"image":"/images/a9c5f2d8b1e7.jpg",
+	  		"title":"Living in the Library",
+	  		"description":"Shut out distractions with these hypnotic grooves.",
+	  		"bg_color":"#6028B4"
+	  	},
+	  	{
+	  		"type":"feature",
+	  		"image":"/images/s6t7u8v1w2x3.jpg",
+	  		"title":"Adam's Station",
+	  		"description":"",
+	  		"bg_color":"#CE2236"
+	  	},
+	  	{
+	  		"type":"feature",
+	  		"image":"/images/r4t5y6u7i8o9.jpg",
+	  		"title":"The Death Of",
+	  		"description":"Trevor Something 2022",
+	  		"bg_color":"#2C2C2C"
+	  	},
+	  	{
+	  		"type":"feature",
+	  		"image":"/images/b7n8m5c4v3x2.jpg",
+	  		"title":"The Armed & Similar Artists Station",
+	  		"description":"Trevor Something 2022",
+	  		"bg_color":"#646F62"
+	  	},
+	  	{
+	  		"type":"feature",
+	  		"image":"/images/q9w8e7r6t5.jpg",
+	  		"title":"Blue Moon",
+	  		"description":"Living Room 2022",
+	  		"bg_color":"#182633"
+	  	},
+	  	{
+	  		"type":"feature",
+	  		"image":"/images/z1x2c3v4b5.jpg",
+	  		"title":"New in Electronic",
+	  		"description":"Club, techno, house, experimental, electro-pop, indie fringe.",
+	  		"bg_color":"#0A2755"
+	  	}
+	  ]
+	},
+	{
+		"name": "Recently Played",
+		"items": [
+			{
+				"type":"playlist",
+				"image": "/images/d2e3r4f5.jpg",
+				"title": "AMA 2020 Live",
+				"curator": "Roddy Ricch"
+			},
+			{
+				"type":"playlist",
+				"image": "/images/j6k7l8h9g0.jpg",
+				"title": "Downtempo Essentials",
+				"curator": "Apple Music Electronic"
+			},
+			{
+				"type":"album",
+				"image": "/images/h1j2k3l4.jpg",
+				"title": "Routine - Single",
+				"artist": "Jack Harlow"
+			},
+			{
+				"type":"playlist",
+				"image": "/images/p5o6i7u8y9.jpg",
+				"title": "Chill Mix",
+				"curator": "Apple Music Electronic"
+			},
+			{
+				"type":"album",
+				"image": "/images/l2k3j4h5g6.jpg",
+				"title": "APART",
+				"artist": "Allen Stone"
+			},
+			{
+				"type":"album",
+				"image": "/images/n5m6b7v8c9.jpg",
+				"title": "What I Breathe",
+				"artist": "Mall Grab"
+			},
+			{
+				"type":"album",
+				"image": "/images/f1g2h3j4k5.jpg",
+				"title": "Cracker Island (Deluxe)",
+				"artist": "Gorillaz"
+			},
+			{
+				"type":"album",
+				"image": "/images/e7r8t9y0.jpg",
+				"title": "Horizons",
+				"artist": "Bag Raiders"
+			},
+			{
+				"type":"album",
+				"image": "/images/x1z2c3v4b5.jpg",
+				"title": "Progress Way",
+				"artist": "YOUTH 83"
+			},
+			{
+				"type":"album",
+				"image": "/images/i6u7y8t9r4.jpg",
+				"title": "Ring of Past - Single",
+				"artist": "Men I Trust"
+			}
+
+		]
+	},
+	{
+		"name": "Rock",
+		"items": [
+			{
+				"type":"album",
+				"image":"/images/q2w3e4r5t6.jpg",
+				"title":"I Get No Joy",
+				"artist":"Jade Bird"
+			},
+			{
+				"type":"playlist",
+				"image":"/images/d8f9g7h6j5.jpg",
+				"title":"Easy Rock",
+				"curator":"Apple Music Rock"
+			},
+			{
+				"type":"album",
+				"image":"/images/n3m4b5v6c7.jpg",
+				"title":"Kill The Girl",
+				"artist":"RØRY"
+			},
+			{
+				"type":"playlist",
+				"image":"/images/z9x8c7v6b5.jpg",
+				"title":"Amped Up",
+				"curator":"Apple Music Alternative"
+			},
+			{
+				"type":"playlist",
+				"image":"/images/k1j2h3g4f5.jpg",
+				"title":"It's Lit!",
+				"curator":"Apple Music Electronic"
+			},
+			{
+				"type":"album",
+				"image":"/images/o2i3u4y5t6.jpg",
+				"title":"Chris Cornell",
+				"artist":"Chris Cornell, Soundgarden, & Tem"
+			}
+		]
+	},
+	{
+		"name":"2000s",
+		"items":[
+			{
+				"type":"album",
+				"image":"/images/r7t8y9u0.jpg",
+				"title":"Next View (feat. Uyama Hiroto) [7inch Ver.] - Single",
+				"artist":"Nujabes"
+			},
+			{
+				"type":"playlist",
+				"image":"/images/p4o5i6u7.jpg",
+				"title":"Basement Jaxx Essentials",
+				"curator":"Apple Music Electronic"
+			},
+			{
+				"type":"album",
+				"image":"/images/a3s4d5f6.jpg",
+				"title":"Paris - EP",
+				"artist":"Friendly Fires"
+			},
+			{
+				"type":"album",
+				"image":"/images/v7b8n9m0.jpg",
+				"title":"Get Me Off - EP",
+				"artist":"Basement Jaxx"
+			},
+			{
+				"type":"album",
+				"image":"/images/l5k4j3h2g1.jpg",
+				"title":"Inocology",
+				"artist":"Hidefumi Ino"
+			},
+			{
+				"type":"album",
+				"image":"/images/e6r5t4y3.jpg",
+				"title":"Calm",
+				"artist":"Nomak"
+			}
+		]
+	},
+	
+	{
+		"name":"Made For You",
+		"items":[
+			{
+		  		"type":"feature",
+		  		"image":"/images/x9z8c7v6b5.jpg",
+		  		"title":"Favorites Mix",
+		  		"description":"Zane Alexander, Lucy In Disguise, YOUTH 83, Iden Kai, A.L.I.S.O.N, FM-84, Whilefalse, Cerulean, She's Not Real, Hotel Pools, Forhill, Fynn's Arcade",
+		  		"bg_color":"#6028B4"
+		  	},
+		  	{
+		  		"type":"feature",
+		  		"image":"/images/u1i2o3p4.jpg",
+		  		"title":"Get Up! Mix",
+		  		"description":"The Smiths, Luna Wave, The Goods, Robert Parker, FM Attack, Makeup and Vanity Set, TOKYO ROSE, Miami Nights 1984, mitch murder, Droid Bishop, OSC, Cassian",
+		  		"bg_color":"#EC2318"
+		  	},
+		  	{
+		  		"type":"feature",
+		  		"image":"/images/t5r6e7w8q9.jpg",
+		  		"title":"Chill Mix",
+		  		"description":"Washed Out, Moglii, Bonobo, Kuna Maze, Kidswaste, Golden Vessel, TOKiMONSTA, BAILE, Kayobe, IHF, Henry Green, Nude",
+		  		"bg_color":"#148890"
+		  	},
+		  	{
+		  		"type":"feature",
+		  		"image":"/images/y6u7i8o9p0.jpg",
+		  		"title":"New Music Mix",
+		  		"description":"l y n x, Zayaz, Hello Meteor, A.L.I.S.O.N, GRAEDA, John Dunder, YOUTH 83, Baton, Kalax, Trevor Something, Waveshaper, 2xxx",
+		  		"bg_color":"#E66C79"
+		  	}
+		]
+	}
+
+]

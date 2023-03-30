@@ -1,0 +1,64 @@
+.featureBodyDark {
+border-radius: 20px;
+width: 240px;
+height: 340px;
+margin: 10px;
+box-shadow: 0px 5px 20px 0px rgba(0, 0, 0, 0.5);
+scroll-snap-align: center;
+transition: 0.2s;
+transition-timing-function: ease-out;
+}
+
+.featureBodyDark:hover {
+  transform: scale(1.03);
+  box-shadow: 0 13px 40px -5px hsla(240, 30.1%, 28%, 0.12), 0 8px 32px -8px hsla(0, 0%, 0%, 0.14), 0 -6px 32px -6px hsla(0, 0%, 0%, 0.02);
+}
+
+.featureBodyLight {
+  border-radius: 20px;
+  width: 240px;
+  height: 340px;
+  margin: 10px;
+  box-shadow: 0px 10px 10px 0px rgba(69, 69, 69, 0.2);
+  scroll-snap-align: center;
+  transition: 0.2s;
+  transition-timing-function: ease-in;
+}
+
+.featureBodyLight:hover {
+  transform: scale(1.04);
+  box-shadow: 0 13px 40px -5px hsla(240, 30.1%, 28%, 0.12), 0 8px 32px -8px hsla(0, 0%, 0%, 0.14), 0 -6px 32px -6px hsla(0, 0%, 0%, 0.02);
+}
+
+.topPicksDescription{
+  width: 240px;
+  height: 100px;
+  border-bottom-right-radius: 5px;
+  border-bottom-left-radius: 5px;
+  display: flex;
+  flex-direction: column;
+  justify-content: center;
+  align-items: center;
+}
+
+.description{
+  width: 240px;
+  height: 100px;
+  display: flex;
+  justify-content: center;
+  align-items: center;
+  border-bottom-right-radius: 5px;
+  border-bottom-left-radius: 5px;
+}
+
+.featureImage {
+    width: 240px;
+    height: 240px;
+    display: block;
+    border-top-right-radius: 5px;
+    border-top-left-radius: 5px;
+}
+
+p {
+    margin :0;
+}

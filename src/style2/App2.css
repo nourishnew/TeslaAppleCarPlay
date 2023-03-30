@@ -1,0 +1,111 @@
+#root{
+    height: 100vh;
+}
+body{
+    overflow:none;
+    background-color: #161616;
+    opacity: 100%;
+}
+
+.AppDark {
+    text-align: center;
+    width:100%;
+    height:90%;
+    background-color: #161616;
+    opacity: 100%;
+    overflow-y: scroll;
+    
+  }
+  .AppLight {
+    text-align: center;
+    width:1180px;
+    height:600x;
+    margin: auto;
+    background-color: #EDEDEF;
+    opacity: 100%;
+    overflow-y: scroll;
+  }
+  
+  .AppDark::-webkit-scrollbar {
+    display: none;
+  }
+  
+  .AppLight::-webkit-scrollbar {
+    display: none;
+  }
+  
+  .titleIconDark{
+    margin-left: 10px;
+    color:#FFFFFF;
+    opacity:40%;
+  
+  }
+  
+  .titleIconLight{
+    margin-left: 10px;
+    color:#000000;
+    opacity:40%;
+  }
+  
+  
+  .titleContainer{
+    display: flex;
+    flex-direction: row;
+    align-items: center;
+    padding-left:10px;
+  }
+  
+  .topPicks{
+    display: flex;
+    flex-direction: row;
+    overflow-x: scroll;
+    scroll-snap-type: x mandatory;
+    scroll-behavior: smooth;
+  }
+  
+  .topPicks::-webkit-scrollbar {
+    display: none;
+  }
+  .titleIcon{
+    margin-left: 10px;
+  }
+  
+  .body1{
+    font-size: 22px;
+    font-weight: bold;
+    font-family:"helvetica"
+  }
+  
+  .body2{
+    font-size: 20px;
+    font-weight: bold;
+    font-family:"helvetica"
+  }
+  
+  .textPrimaryWhite{
+    color: #FFFFFF;
+    opacity: 90%;
+  }
+  
+  .textSecondaryWhite{
+    color: #FFFFFF;
+    opacity: 60%;
+  }
+  
+  .textPrimaryBlack{
+    color: #000000;
+    opacity: 70%;
+  }
+  
+  .textSecondaryBlack{
+    color: #000000;
+    opacity: 40%;
+  }
+  
+  .caption1 {
+    font-size: 15px;
+    font-weight: normal;
+    font-family: "helvetica";
+  }
+  
+  
