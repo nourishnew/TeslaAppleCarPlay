@@ -11,7 +11,7 @@ function App2() {
   const [isDarkTheme, setIsDarkTheme] = useState(getCurrentTheme());
 
   return (
-    <div className={isDarkTheme ? "AppDark" : "AppLight"}>
+    <div className={isDarkTheme ? "AppDark" : "AppDark"}>
       {data.map((list, index) => {
         return (
           <div>

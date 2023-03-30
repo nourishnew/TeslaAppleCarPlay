@@ -1,5 +1,5 @@
 import React from "react";
-import "../style/card.css"
+import "../style/card.css";
 import "../style/App.css";
 
 export default function Card({ isDarkTheme, image, title, description }) {
